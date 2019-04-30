@@ -1,0 +1,3 @@
+Functions and Macros added into Character (see BaseCharacter_ScreenLock)
+
+Changes made to camera scene and blueprint
