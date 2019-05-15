@@ -1,0 +1,7 @@
+Added dojo level blockout to Scenes folder.
+
+Added Target_MRZ (spinning target) to Placeables.
+
+Changed the PlayerHUD to HUDManger to allow for multiple players.
+Created new PlayerHUD to match the wireframe. 
+We can still optimise the HUD by swapping the bindings for event dispatchers.
